@@ -1,6 +1,6 @@
 {
-  "name": "vite-plugin-svg-icons",
-  "version": "2.0.1",
+  "name": "@digitalacorn/vite-plugin-svg-icons",
+  "version": "2.0.2",
   "description": "Vite Plugin for fast creating SVG sprites.",
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
@@ -34,13 +34,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/anncwb/vite-plugin-svg-icons",
+    "url": "https://github.com/digitalacorn/vite-plugin-svg-icons",
     "directory": "packages/core"
   },
   "bugs": {
-    "url": "https://github.com/anncwb/vite-plugin-svg-i cons/issues"
+    "url": "https://github.com/digitalacorn/vite-plugin-svg-i cons/issues"
   },
-  "homepage": "https://github.com/anncwb/vite-plugin-svg-icons/tree/master/#readme",
+  "homepage": "https://github.com/digitalacorn/vite-plugin-svg-icons/tree/master/#readme",
   "dependencies": {
     "@types/svgo": "^2.6.1",
     "cors": "^2.8.5",
