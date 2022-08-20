@@ -1,3 +1,7 @@
+## [2.0.2](https://github.com/digitalacorn/vite-plugin-svg-icons/compare/v2.0.1...v2.0.2) (2022-08-20)
+
+- Optional currentColor replacement on paths
+
 ## [2.0.1](https://github.com/anncwb/vite-plugin-svg-icons/compare/v1.0.1...v2.0.1) (2022-01-29)
 
 ### Bug Fixes
