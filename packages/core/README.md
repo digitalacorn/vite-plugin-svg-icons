@@ -2,8 +2,14 @@
 
 Used to generate svg sprite map.
 
-> <br/>Please Note: this is fork of [vite-plugin-svg-icons](https://www.npmjs.com/package/vite-plugin-svg-icons) <br/><br/> Only created so I can proceed using the feature in this [pull request](https://github.com/vbenjs/vite-plugin-svg-icons/pull/68). It adds the ability to disable the replacement of all stroke colours with currentColour. There has been no sign of activity from the maintainer of the above.
+> <br/>Please Note: this is fork of [vite-plugin-svg-icons](https://www.npmjs.com/package/vite-plugin-svg-icons) <br/><br/> Initially created so I can proceed using the feature in this [pull request](https://github.com/vbenjs/vite-plugin-svg-icons/pull/68).
+> <br/><br/>There has been no sign of activity from the maintainer of the above.
 > <br/><br/>
+
+## Summary of additions:
+
+- Adds the ability to disable the replacement of all stroke colours with currentColour.
+- Version 3+ Also this package now includes significant increments to modues used, removing vulnerabilities, and without more test coverage could introduce breaking changes from the 2.X version.
 
 ## Feature
 
@@ -281,4 +287,4 @@ pnpm run build
 
 [MIT © Vben-2020](./LICENSE)
 
-> This package may be deprecated if the PR is accepted by the current maintainer of the package from which it is forked. Unless you need this specific feature it is recommended that you use the original package [vite-plugin-svg-icons](https://www.npmjs.com/package/vite-plugin-svg-icons).
+> This package may be deprecated if the PR is accepted and other updates are implemented by the current maintainer of the package from which it is forked. Unless you need thw specific updates, security improvements or features it is recommended that you use the original package [vite-plugin-svg-icons](https://www.npmjs.com/package/vite-plugin-svg-icons).
