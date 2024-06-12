@@ -4,6 +4,14 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  decode-uri-component: ^0.2.2
+  loader-utils: ^2
+  minimist: ^1.2.6
+  postcss: '>=7.0.36'
+  uuid: ^7
+  vite: '>2.9.16'
+
 importers:
   .:
     devDependencies:
